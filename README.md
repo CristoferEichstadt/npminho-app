@@ -1,4 +1,4 @@
-# npminho 🐒
+# npminho
 
 <p align="center">
   <img src="./logo.png" alt="NPMinho Logo" width="160" height="160" />
